@@ -1,0 +1,1 @@
+# divisors-of-a-given-integer-N
